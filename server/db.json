@@ -440,6 +440,22 @@
       "jobTitle": "Lawyer",
       "twitter": "ckaufmanpr",
       "id": "npaYZKI"
+    },
+    {
+      "firstName": "Felipe",
+      "lastName": "López",
+      "jobTitle": "Frontend engineer",
+      "email": "d@gmail.com",
+      "twitter": "philip",
+      "id": "8gW1ymL"
+    },
+    {
+      "firstName": "Silvia Patricia",
+      "lastName": "Pataquiva Niño",
+      "jobTitle": "Admin agro.",
+      "email": "richardbkaufman@gmail.com",
+      "twitter": "silvis",
+      "id": "sWud-wd"
     }
   ]
 }

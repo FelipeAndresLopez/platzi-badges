@@ -10,6 +10,18 @@
   padding: 1rem;
 }
 
+.BadgesListItem a {
+  display: -webkit-inline-box;
+}
+
+.BadgesListItem .fullName{
+  font-weight: bold;
+}
+
+.BadgesListItem .twitter{
+  color: #1da1f2;
+}
+
 .BadgesListItem__avatar {
   border-radius: 50%;
   background: #a3a3a3;
